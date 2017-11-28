@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhucMe</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">obIgTLEVw3hV2pj44q72O7Ypn</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">3EjVyesNesHF1EF4c1tJMWtZ3IY7x6uGWyCvL9HKgtynV4laMm</string>
+</resources>
